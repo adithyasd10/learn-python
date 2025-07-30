@@ -62,3 +62,20 @@ while i < len(newArray):
 # Output:
 # Old Array: 1 2 3 4 5
 # New Array: 1 2 3 4 5
+# -----------------------------------------------------------------------------
+# Print array elements using enumerate function
+from array import *
+
+arr = list(map(int, input('Enter the numbers (space eparated)').split()))
+
+print('index  number')
+for i,num in enumerate(arr):
+    print(i, ':   ',num)
+# Output:
+#Enter the numbers (space eparated)
+#1 2 3 4
+#index  number
+#0 :    1
+#1 :    2
+#2 :    3
+#3 :    4
