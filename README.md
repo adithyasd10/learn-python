@@ -7,5 +7,3 @@ Welcome to **Learn Python the Easy Way** – a beginner-friendly repository to h
 ## 📚 What’s Inside?
 
 This repository is organized by topics. Each folder (e.g., `arrays/`) contains a series of programs arranged by increasing difficulty, from basic to complex use-cases.
-
-.
